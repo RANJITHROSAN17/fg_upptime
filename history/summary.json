@@ -4,19 +4,19 @@
     "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=005930&cn=",
     "icon": "https://icons.duckduckgo.com/ip3/comp.wisereport.co.kr.ico",
     "slug": "company-wise",
-    "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 1434,
     "timeDay": 1434,
     "timeWeek": 1434,
     "timeMonth": 1434,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-03-22": 19
+      "2023-03-22": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://comp.wisereport.co.kr/company/c1020001.aspx?cmp_cd=005930&cn=",
     "icon": "https://icons.duckduckgo.com/ip3/comp.wisereport.co.kr.ico",
     "slug": "company-wise",
-    "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 1434,
     "timeDay": 1434,
     "timeWeek": 1434,
     "timeMonth": 1434,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-03-22": 19
+      "2023-03-22": 21
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://comp.wisereport.co.kr/company/c1030001.aspx?cmp_cd=005930&cn=",
     "icon": "https://icons.duckduckgo.com/ip3/comp.wisereport.co.kr.ico",
     "slug": "company-wise",
-    "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 1434,
     "timeDay": 1434,
     "timeWeek": 1434,
     "timeMonth": 1434,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-03-22": 19
+      "2023-03-22": 21
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://comp.wisereport.co.kr/company/c1040001.aspx?cmp_cd=005930&cn=",
     "icon": "https://icons.duckduckgo.com/ip3/comp.wisereport.co.kr.ico",
     "slug": "company-wise",
-    "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 1434,
     "timeDay": 1434,
     "timeWeek": 1434,
     "timeMonth": 1434,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-03-22": 19
+      "2023-03-22": 21
     }
   }
 ]
