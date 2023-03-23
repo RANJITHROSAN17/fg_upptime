@@ -3,14 +3,69 @@ owner: LeeYoungJin # Your GitHub organization or username, where this repository
 repo: fg_upptime # The name of this repository
 
 sites:
-  - name: CompanyWise 기업현황
-    url: https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=005930&cn=
-  - name: CompanyWise 기업개요
-    url: https://comp.wisereport.co.kr/company/c1020001.aspx?cmp_cd=005930&cn=
-  - name: CompanyWise 재무분석
-    url: https://comp.wisereport.co.kr/company/c1030001.aspx?cmp_cd=005930&cn=
-  - name: CompanyWise 투자지
-    url: https://comp.wisereport.co.kr/company/c1040001.aspx?cmp_cd=005930&cn=
+  - name: CompanyWise1
+    url: https://comp1.wisereport.co.kr/servercheck.aspx
+  - name: CompanyWise2
+    url: https://comp2.wisereport.co.kr/servercheck.aspx
+  - name: CompanyWise3
+    url: https://comp3.wisereport.co.kr/servercheck.aspx
+  - name: CompanyGuide1
+    url: https://comp2.fnguide.com/server_variables.asp
+  - name: CompanyGuide1
+    url: https://comp2.fnguide.com/server_variables.asp
+  - name: CompanyGuide2
+    url: https://comp3.fnguide.com/server_variables.asp
+  - name: CompanyGuide3
+    url: https://comp4.fnguide.com/server_variables.asp
+  - name: CompanyGuide4
+    url: https://comp5.fnguide.com/server_variables.asp
+  - name: FnGuide.com1
+    url: https://www1.fnguide.com/Etc/Service?id=Monitoring_adm
+  - name: FnGuide.com2
+    url: https://www2.fnguide.com/Etc/Service?id=Monitoring_adm
+  - name: WiseReport1
+    url: https://www1.wisereport.co.kr/servercheck.aspx
+  - name: WiseReport2
+    url: https://www2.wisereport.co.kr/servercheck.aspx
+  - name: WiseReport3
+    url: https://www3.wisereport.co.kr/servercheck.aspx
+  - name: Retamin1
+    url: https://app1.wisereport.co.kr/Home/ServerCheck
+  - name: Retamin2
+    url: https://app2.wisereport.co.kr/Home/ServerCheck
+  - name: Retamin3
+    url: https://app3.wisereport.co.kr/Home/ServerCheck
+  - name: Naver1
+    url: https://navercomp1.wisereport.co.kr/v2/servercheck.aspx
+  - name: Naver2
+    url: https://navercomp2.wisereport.co.kr/v2/servercheck.aspx
+  - name: Naver3
+    url: https://navercomp3.wisereport.co.kr/v2/servercheck.aspx
+  - name: CompanyGlobal1
+    url: https://compglobal1.wisereport.co.kr/Home/ServerCheck
+  - name: CompanyGlobal2
+    url: https://compglobal2.wisereport.co.kr/Home/ServerCheck
+  - name: CompanyGlobal3
+    url: https://compglobal3.wisereport.co.kr/Home/ServerCheck
+  - name: MobileCompanyGlobal1
+    url: https://mglobal1.wisereport.co.kr/Home/ServerCheck
+  - name: MobileCompanyGlobal2
+    url: https://mglobal2.wisereport.co.kr/Home/ServerCheck
+  - name: MobileCompanyGlobal3
+    url: https://mglobal3.wisereport.co.kr/Home/ServerCheck
+  - name: ETFGlobal1
+    url: https://globaletf1.wisereport.co.kr/Home/ServerCheck
+  - name: ETFGlobal2
+    url: https://globaletf2.wisereport.co.kr/Home/ServerCheck
+  - name: ETFGlobal3
+    url: https://globaletf3.wisereport.co.kr/Home/ServerCheck    
+  - name: MobileETFGlobal1
+    url: https://mglobaletf1.wisereport.co.kr/Home/ServerCheck
+  - name: MobileETFGlobal2
+    url: https://mglobaletf2.wisereport.co.kr/Home/ServerCheck
+  - name: MobileETFGlobal3
+    url: https://mglobaletf3.wisereport.co.kr/Home/ServerCheck
+        
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
