@@ -11,8 +11,6 @@ sites:
     url: https://comp3.wisereport.co.kr/servercheck.aspx
   - name: CompanyGuide1
     url: https://comp2.fnguide.com/server_variables.asp
-  - name: CompanyGuide1
-    url: https://comp2.fnguide.com/server_variables.asp
   - name: CompanyGuide2
     url: https://comp3.fnguide.com/server_variables.asp
   - name: CompanyGuide3
